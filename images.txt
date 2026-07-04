@@ -12,4 +12,5 @@ mcr.microsoft.com/dotnet/sdk:9.0
 mcr.microsoft.com/dotnet/aspnet:8.0
 # 微软私有仓库 SQL Server 数据库镜像
 mcr.microsoft.com/mssql/server:2022-latest
+mcr.microsoft.com/mssql/server:2025-latest
 mcr.microsoft.com/mssql-tools:latest
