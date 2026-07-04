@@ -1,16 +1,5 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-# Docker Hub官方基础镜像
-node:20-alpine
-nginx:1.27-alpine
-# 微软私有仓库 .NET 镜像
-mcr.microsoft.com/dotnet/sdk:9.0
-mcr.microsoft.com/dotnet/aspnet:8.0
+
 # 微软私有仓库 SQL Server 数据库镜像
-mcr.microsoft.com/mssql/server:2022-latest
-mcr.microsoft.com/mssql/server:2025-latest
-mcr.microsoft.com/mssql-tools:latest
+mcr.microsoft.com/mssql/server:2017-latest
+
+
