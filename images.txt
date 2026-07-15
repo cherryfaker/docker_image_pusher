@@ -1,4 +1,3 @@
-
-ghcr.io/pocketpairjp/palserver:latest
+ghcr.io/pocketpairjp/palserver:v1.0.1.100619
 
 
