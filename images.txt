@@ -1,5 +1,4 @@
 
-# 微软私有仓库 SQL Server 数据库镜像
-ghcr.io/pocketpairjp/palserver:v1.0.0.100427
+ghcr.io/pocketpairjp/palserver:latest
 
 
